@@ -1,21 +1,3 @@
-# IMPORTANT GUIDE
+## This is CryptoFlow Application
 
-@theblockchaincoders
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/01/create-token-liquidity-marketplace.jpg)
-
-Build your own Decentralized Uniswap ERC20 liquidity Marketplace including ERC20 Token sale ICO where you can sell your crypto token, in which you can provide users to create liquidity of any 2 tokens and also find liquidity pool address on any blockchain.
-
-Resource Final Code: https://www.theblockchaincoders.com/sourceCode/how-to-create-liquidity-token-marketplace-including-ico-token-sale
-
-Get Pro Blockchain Developer Course: https://www.theblockchaincoders.com/pro-nft-marketplace
-
-Support Creator: https://bit.ly/Support-Creator
-
-All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
-
-Official Website: https://www.theblockchaincoders.com
-
-Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
-
-Setup Video: https://youtu.be/G5-f1hZA01U?si=TLIOqNllDG-dbaK9
+CryptoFlow is an online platform for buying, selling, and trading cryptocurrencies like Bitcoin and Ethereum. It functions as an exchange, offering services such as spot trading, futures trading, and staking. Some also support NFTs and DeFi products. These platforms provide secure wallets, transaction tracking, and market analysis tools, with encryption and two-factor authentication ensuring security.
